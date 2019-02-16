@@ -23,7 +23,7 @@ namespace Test
             var rspB= InputParamsCheck.Excute(() =>
             {
                 return BaseRsp<bool>.RspOk(true);
-            }, registB, "用户注册", "注册A");
+            }, registB, "用户注册", "注册B");
 
 
             //打印结果
