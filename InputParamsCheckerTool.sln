@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputParamsCheckerTool", "C:\Users\Administrator\InputCheckerTool\InputParamsCheckerTool\InputParamsCheckerTool\InputParamsCheckerTool.csproj", "{0809C0B6-6504-41DF-9F37-662BD650DAF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{F8F6317F-767E-43A8-8A8E-0C51CAC674C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{37A52C18-963E-4BE3-88B3-EADE7F1CFE8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0809C0B6-6504-41DF-9F37-662BD650DAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0809C0B6-6504-41DF-9F37-662BD650DAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0809C0B6-6504-41DF-9F37-662BD650DAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F6317F-767E-43A8-8A8E-0C51CAC674C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F6317F-767E-43A8-8A8E-0C51CAC674C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F6317F-767E-43A8-8A8E-0C51CAC674C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F6317F-767E-43A8-8A8E-0C51CAC674C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A52C18-963E-4BE3-88B3-EADE7F1CFE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A52C18-963E-4BE3-88B3-EADE7F1CFE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A52C18-963E-4BE3-88B3-EADE7F1CFE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A52C18-963E-4BE3-88B3-EADE7F1CFE8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
