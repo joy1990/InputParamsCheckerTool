@@ -25,7 +25,7 @@ namespace Test
                 return BaseRsp<bool>.RspOk(true);
             }, registB, "用户注册", "注册B");
 
-
+              
             //打印结果
             Console.WriteLine(string.Format("A注册结果：{0}", JsonConvert.SerializeObject(rspA)));
             Console.WriteLine(string.Format("B注册结果：{0}", JsonConvert.SerializeObject(rspB)));
